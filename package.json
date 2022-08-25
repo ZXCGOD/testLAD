@@ -1,0 +1,26 @@
+{
+  "name": "testlad",
+  "version": "1.0.0",
+  "description": "First test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZXCGOD/testLAD.git"
+  },
+  "author": "Vladislav Peregudov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZXCGOD/testLAD/issues"
+  },
+  "homepage": "https://github.com/ZXCGOD/testLAD#readme",
+  "devDependencies": {
+    "count-words-array": "^1.0.13",
+    "hapi": "^18.1.0",
+    "html2plaintext": "^2.1.4",
+    "needle": "^3.1.0",
+    "pdfkit": "^0.13.0"
+  }
+}
